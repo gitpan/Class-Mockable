@@ -23,6 +23,6 @@ requires:
   Data::Dumper: 0
   Scalar::Util: 0
   Test::More: 0
-version: 1.0002
+version: 1.1
 x_resource:
   repository: https://github.com/DrHyde/perl-modules-Class-Mockable
